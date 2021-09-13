@@ -1,0 +1,8 @@
+body {
+    color: #293d5e;
+  }
+.jumbotron {
+    background-image: url("/Users/ektakapoor/Documents/GW Analytics/Module 11/UFOs/images/nasa.jpg"); 
+    background-size: 100% 100%;
+    text-align: center;
+  }
